@@ -1,0 +1,15 @@
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\Objective_8.csproj.AssemblyReference.cache
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\Objective_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\Objective_8.AssemblyInfoInputs.cache
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\Objective_8.AssemblyInfo.cs
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\Objective_8.csproj.CoreCompileInputs.cache
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\bin\Debug\net6.0\Objective_8.exe
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\bin\Debug\net6.0\Objective_8.deps.json
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\bin\Debug\net6.0\Objective_8.runtimeconfig.json
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\bin\Debug\net6.0\Objective_8.dll
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\bin\Debug\net6.0\Objective_8.pdb
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\Objective_8.dll
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\refint\Objective_8.dll
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\Objective_8.pdb
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\Objective_8.genruntimeconfig.cache
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_8\obj\Debug\net6.0\ref\Objective_8.dll

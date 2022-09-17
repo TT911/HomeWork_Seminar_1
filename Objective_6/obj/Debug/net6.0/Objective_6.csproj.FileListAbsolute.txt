@@ -1,0 +1,15 @@
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\bin\Debug\net6.0\Objective_6.exe
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\bin\Debug\net6.0\Objective_6.deps.json
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\bin\Debug\net6.0\Objective_6.runtimeconfig.json
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\bin\Debug\net6.0\Objective_6.dll
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\bin\Debug\net6.0\Objective_6.pdb
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\Objective_6.csproj.AssemblyReference.cache
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\Objective_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\Objective_6.AssemblyInfoInputs.cache
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\Objective_6.AssemblyInfo.cs
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\Objective_6.csproj.CoreCompileInputs.cache
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\Objective_6.dll
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\refint\Objective_6.dll
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\Objective_6.pdb
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\Objective_6.genruntimeconfig.cache
+D:\heap_edu\C_sem_1_hw\HomeWork_Seminar_1\Objective_6\obj\Debug\net6.0\ref\Objective_6.dll
